@@ -1,0 +1,82 @@
+.permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+
+
+body, html {
+    height: 100%;
+  }
+  .heading{
+    margin:100px;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .bg{
+    background-color: antiquewhite;
+  
+    min-height: 380px;
+  
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  
+  
+  
+  div{
+    margin: 350px  350px 350px 600px ;
+  }
+  
+  
+  .container {
+    
+    
+    margin:20px;
+    width:300px;
+    padding: 16px;
+    background-color: white;
+  }
+  
+  
+  .input-field{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+ .input-field{ background-color: #ddddddf6;
+  outline: none;
+ }
+  
+  
+  
+  .button {
+    background-color:#254E58;
+    color: #6E6658;
+    padding: 16px 20px;
+    border: #f8f5f5;
+    cursor: pointer;
+    width:100%;
+    opacity: 0.8;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    
+  }
+  
+  .button:hover {
+    opacity: 1;
+  }
